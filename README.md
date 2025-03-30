@@ -44,7 +44,7 @@ NumPy (Numerical Computations)
 
 Matplotlib & Seaborn (Data Visualization)
 
-Jupyter Notebook
+Jupyter Book
 
 
 🚀 Installation & Usage
